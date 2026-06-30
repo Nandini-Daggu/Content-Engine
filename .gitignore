@@ -1,0 +1,15 @@
+.env
+.env.example
+venv/
+__pycache__/
+*.pyc
+
+assets/generated_images/*
+assets/generated_videos/*
+!assets/generated_images/.gitkeep
+!assets/generated_videos/.gitkeep
+
+output.txt
+.vscode/
+.idea/
+*.log
